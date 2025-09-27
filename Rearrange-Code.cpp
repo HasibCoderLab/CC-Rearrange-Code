@@ -12,8 +12,8 @@ int main()
 {
     int a, b;
     cin >> a >> b;
-    cout << a << b;
+    cout << a << b <<endl;
     int sum = a +b ;
-    cout<<sum;
+    cout<<sum << endl;
     return 0;
 }
